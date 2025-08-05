@@ -6,6 +6,8 @@ A collection of PowerShell scripts for automating various tasks across different
 
 This repository contains PowerShell scripts designed to automate routine tasks for various software products and hardware vendors. Each script is organized by vendor/product category and may include detailed documentation for easy implementation.
 
+[More details](https://www.businessbytes.de/en/tags/powershell/) about each script can be found on my [website](https://www.businessbytes.de/en/tags/powershell/).
+
 ## Getting Started
 
 ### Prerequisites
