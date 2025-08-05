@@ -17,7 +17,7 @@ This repository contains PowerShell scripts designed to automate routine tasks f
 
 1. Clone the repository:
    ```powershell
-   git clone https://github.com/yourusername/powershell-automation-scripts.git
+   git clone https://github.com/marcusfoelling/powershell-automation-scripts.git
    cd powershell-automation-scripts
    ```
 
